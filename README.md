@@ -70,9 +70,9 @@ Once running, open your browser and visit:
 
 ## **Screenshots**  
 ### Home Page  
-<img width="379" alt="Image" src="https://github.com/user-attachments/assets/e9c73b3d-d111-4f6e-840c-303b5566ff10" /> 
-<img width="157" alt="Image" src="https://github.com/user-attachments/assets/78c6abb7-0997-442e-ae44-cc52ce61686c" />
-<img width="330" alt="Image" src="https://github.com/user-attachments/assets/d2379e86-5ea7-48aa-93d7-83df0f6cbd9c" />
+<img width="379" alt="Image" src="https://github.com/user-attachments/assets/1bcf02f0-6169-419b-896e-112c881c1691" />
+<img width="157" alt="Image" src="https://github.com/user-attachments/assets/193a40c8-18b9-4fc0-a6b9-eaf5146dd231" />
+<img width="330" alt="Image" src="https://github.com/user-attachments/assets/033917f3-303d-4466-bd09-75c1f019a76e" />
 
 ---
 
