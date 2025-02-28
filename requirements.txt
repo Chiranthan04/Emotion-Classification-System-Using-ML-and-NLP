@@ -1,0 +1,5 @@
+plotly-express
+pandas
+joblib
+scikit-learn
+tensorflow==2.9.0

@@ -1,0 +1,63 @@
+Normal
+
+    "I’m feeling great today and ready to take on the world."
+    "Had a relaxing day at home, nothing much to do."
+    "I enjoyed spending time with friends over the weekend."
+    "It’s a good day to start something new and exciting."
+    "I feel at peace with where I am in life right now."
+
+Depression
+
+    "I feel so alone, like nothing really matters anymore."
+    "I can’t seem to find the energy to do anything lately."
+    "Everything feels pointless, and I’m just so tired of pretending."
+    "It’s hard to explain, but I feel this heavy sadness all the time."
+    "I don’t see a way out of this dark place I’m in."
+
+Stress
+
+    "There’s just too much on my plate; I can’t keep up."
+    "I feel like I’m constantly running out of time."
+    "Work deadlines are killing me, and I don’t know how to manage."
+    "Everything feels overwhelming, and I can’t catch a break."
+    "I’m under so much pressure; it’s hard to breathe."
+
+Anxiety
+
+    "I can’t stop worrying about what might happen tomorrow."
+    "My mind keeps racing, and I can’t seem to calm down."
+    "I feel this tightness in my chest whenever I think about it."
+    "Every little thing feels like a huge catastrophe waiting to happen."
+    "I’m scared of going out because I don’t know how I’ll feel."
+
+Bipolar Disorder
+
+    "One day, I feel unstoppable; the next, I can’t get out of bed."
+    "My moods swing so drastically that I can’t keep up with myself."
+    "Sometimes I feel like I can do anything, but then reality hits hard."
+    "I’ve been spending recklessly during my highs and regretting it later."
+    "It’s like living on a rollercoaster with no way to get off."
+
+Personality Disorder
+
+    "I struggle to maintain stable relationships; they always seem to fall apart."
+    "Sometimes I feel like I’m a completely different person, even to myself."
+    "I often feel detached from reality, like I’m watching myself from the outside."
+    "My emotions are so intense that they scare even me."
+    "I constantly feel like I don’t know who I am or where I fit."
+
+Suicidal Tendencies
+
+    "I can’t keep living like this; it feels unbearable."
+    "The pain is too much to handle, and I just want it to stop."
+    "I wonder if anyone would even notice if I wasn’t here."
+    "I feel like I’m a burden to everyone around me."
+    "Maybe it would be better if I just disappeared."
+
+Ambiguous Mental Health Texts
+
+    "I’m fine, I guess, but things don’t feel the way they used to."
+    "Sometimes I think about just leaving everything behind and starting over."
+    "I laugh on the outside, but inside, it’s a different story."
+    "I don’t know why I feel this way; it’s like something’s missing."
+    "Everything looks okay from the outside, but it feels off deep down."
