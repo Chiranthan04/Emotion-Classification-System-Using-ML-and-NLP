@@ -38,7 +38,7 @@ labels = [
 
 # Function to load the selected model
 def load_model(model_name):
-    model_path = f"models\\{model_name}.pkl"
+    model_path = f"models\{model_name}.pkl"
     return joblib.load(open(model_path, "rb"))
     # return joblib.load(open("C:\\Users\\Chiranthan\\Documents\\Mini_pro\\App\\models\\LogisticRegression.pkl", "rb"))
 
