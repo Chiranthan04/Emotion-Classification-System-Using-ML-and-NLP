@@ -1,3 +1,4 @@
 plotly-express
 pandas
 joblib
+scikit-learn
