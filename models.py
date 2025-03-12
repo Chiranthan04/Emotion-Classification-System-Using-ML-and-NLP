@@ -38,11 +38,11 @@ def fine_tune_model(raw_text, label, model_name):
         raise ValueError(f"This function only supports LogisticRegression. Got: {model_name}")
 
     # Load pre-trained components
-    vectorizer = joblib.load(r"C:\Users\Chiranthan\Documents\Mini_pro\App\models\countvectorizer.pkl")
-    encoder = joblib.load(r"C:\Users\Chiranthan\Documents\Mini_pro\App\models\encoder.pkl")  # Assuming you have a label encoder
-    X_train = joblib.load(r"C:\Users\Chiranthan\Documents\Mini_pro\App\models\x_train.pkl")  # Feature data (should be vectorized)
-    y_train = joblib.load(r"C:\Users\Chiranthan\Documents\Mini_pro\App\models\y_train.pkl")           # Load training labels
-    model = joblib.load(r"C:\Users\Chiranthan\Documents\Mini_pro\App\models\LogisticRegression.pkl")
+    vectorizer = joblib.load(r"models/DecisionTreeClassifier.pkl")
+    # encoder = joblib.load(r"C:\Users\Chiranthan\Documents\Mini_pro\App\models\encoder.pkl")  # Assuming you have a label encoder
+    # X_train = joblib.load(r"C:\Users\Chiranthan\Documents\Mini_pro\App\models\x_train.pkl")  # Feature data (should be vectorized)
+    # y_train = joblib.load(r"C:\Users\Chiranthan\Documents\Mini_pro\App\models\y_train.pkl")           # Load training labels
+    model = joblib.load(r"models/LogisticRegression.pkl")
 
     # Vectorize the new input text
     text_vectorized = vectorizer.transform([raw_text])
@@ -63,9 +63,9 @@ def fine_tune_model(raw_text, label, model_name):
     model.fit(X_train, y_train)
 
     # Save the updated model and training data
-    joblib.dump(model, "C:/Users/Chiranthan/Documents/Mini_pro/App/models/LogisticRegression.pkl")
-    joblib.dump(X_train, "C:/Users/Chiranthan/Documents/Mini_pro/App/models/x_train.pkl")
-    joblib.dump(y_train, "C:/Users/Chiranthan/Documents/Mini_pro/App/models/y_train.pkl")
+    joblib.dump(model, "models/LogisticRegression.pkl")
+    joblib.dump(X_train, "models/x_train.pkl")
+    joblib.dump(y_train, "models/y_train.pkl")
 
     print("Logistic Regression model fine-tuned and saved successfully!")
 
